@@ -1,14 +1,14 @@
-#Cours #GE36
-## I. Marketing ^toc
+#Cours #GE36 #P24
+# I. Marketing ^toc
 
 - [[#I. Marketing ^toc|I. Marketing]]
-	- [[#I.1. Objectifs & fonctionnement|I.1. Objectifs & fonctionnement]]
-	- [[#I.2. Introduction au marketing|I.2. Introduction au marketing]]
-		- [[#I.2.1. Définition du marketing|I.2.1. Définition du marketing]]
-			- [[#Définition (*Marketing*)|Définition (*Marketing*)]]
-				- [[#Remarque|Remarque]]
-		- [[#I.2.2. Evolution du marketing|I.2.2. Evolution du marketing]]
-### I.1. Objectifs & fonctionnement
+	- [[#I. Objectifs & fonctionnement|I. Objectifs & fonctionnement]]
+	- [[#II. Introduction au marketing|II. Introduction au marketing]]
+		- [[#II.1. Définition du marketing|II.1. Définition du marketing]]
+				- [[#Définition (*Marketing*)|Définition (*Marketing*)]]
+					- [[#Remarque|Remarque]]
+		- [[#II.2. Evolution du marketing|II.2. Evolution du marketing]]
+## I. Objectifs & fonctionnement
 
 Avoir une culture marketing superficielle. Comprendre le fonctionnement du marketing.
 
@@ -23,9 +23,9 @@ Médian : QCM plus 2-3 exos de réflexion
 
 Le marketing s'applique aux ONG : elles recherchent le profit et la croissance.
 
-### I.2. Introduction au marketing
+## II. Introduction au marketing
 
-#### I.2.1. Définition du marketing
+### II.1. Définition du marketing
 - ~~Vendre~~ *Le marketing ne concerne pas directement la vente mais donne des outils pour mieux vendre (le produit, le prix, communication)*
 - Besoins du marché
 - Méthode de commercialisation *Le marketing commence et finit par le client*
@@ -34,10 +34,9 @@ Le marketing s'applique aux ONG : elles recherchent le profit et la croissance.
 - Fidéliser *Important avec la conquête. On cherche à satisfaire*
 - *Conquête*
 
-***
 ##### Définition (*Marketing*)
 *Poly*
 ###### Remarque
 Le marketing n'est pas une science du tout. C'est un état d'esprit. Un problème est associé à différents résultats. De plus, même éléments de départ implique plusieurs orientations (BMW vs Peugeot)
-***
-#### I.2.2. Evolution du marketing
+
+### II.2. Evolution du marketing
