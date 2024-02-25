@@ -35,8 +35,16 @@ Le marketing s'applique aux ONG : elles recherchent le profit et la croissance.
 - *Conquête*
 
 ##### Définition (*Marketing*)
-*Poly*
+Le *marketing* est un état d’esprit, un ensemble de techniques et d’actions qui permettent, à travers une offre de biens et services, de satisfaire les besoins des consommateurs d’une manière rentable pour l’entreprise.
+
 ###### Remarque
-Le marketing n'est pas une science du tout. C'est un état d'esprit. Un problème est associé à différents résultats. De plus, même éléments de départ implique plusieurs orientations (BMW vs Peugeot)
+- Le marketing n'est pas une science du tout. C'est un état d'esprit. Un problème est associé à différents résultats. De plus, même éléments de départ implique plusieurs orientations (BMW vs Peugeot)
+- Le marketing est un ensemble de techniques…
+	- Economie
+	- Sociologie
+	- Psychologie 
+	- Stratégie
+	- Gestion
+	- Statistiques
 
 ### II.2. Evolution du marketing
