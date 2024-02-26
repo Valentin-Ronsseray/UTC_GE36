@@ -48,3 +48,61 @@ Le *marketing* est un état d’esprit, un ensemble de techniques et d’actions
 	- Statistiques
 
 ### II.2. Evolution du marketing
+
+> [!PDF|yellow] [[S1 poly intro marketing.pdf#page=8&color=yellow|S1 poly intro marketing, page 8]]
+> >  Introduction au Marketing Produit Acheteurs 1.2 Evolution du marketing Le marketing passif :1850-1950
+> 
+> Henri Ford crée la Ford T
+
+> [!PDF|yellow] [[S1 poly intro marketing.pdf#page=10&selection=13,0,15,4&color=yellow|S1 poly intro marketing, page 10]]
+> > Le marketing de masse : 1950-1970
+> > “one to many”
+> 
+> Demande de consommation : Trente Glorieuses
+> Le produit est fabriqué, il est vendu. Pas trop d'effort pour convaincre
+
+> [!PDF|yellow] [[S1 poly intro marketing.pdf#page=11&selection=17,0,23,40&color=yellow|S1 poly intro marketing, page 11]]
+> > Le marketing segmenté : 1970-1995 “one to few” => Le triomphe du marketing consommateur
+> 
+> Il faut désormais être meilleur que le concurrent pour vendre. Le marketing est franchement lancé.
+> Avant un seul soda : le Coca. Coca-Cola crée différents dérivés comme le coca zéro pour toucher plus de monde
+
+> [!PDF|yellow] [[S1 poly intro marketing.pdf#page=12&selection=24,0,28,34&color=yellow|S1 poly intro marketing, page 12]]
+> > Le marketing individualisé : depuis1995 “one to one” => Le triomphe du marketing client
+> 
+> Politique de fidélisation : on essaie de faire des offres personnalisées et de connaître les clients
+> Coca-Cola ajoute des prénoms sur les bouteilles pour personnaliser.
+
+> [!PDF|yellow] [[S1 poly intro marketing.pdf#page=13&selection=24,0,24,42&color=yellow|S1 poly intro marketing, page 13]]
+> > Le marketing de fidélisation : aujourd’hui
+> 
+> Conquérir un client coûte **7 fois plus cher** que de le fidéliser.
+
+> [!PDF|yellow] [[S1 poly intro marketing.pdf#page=13&selection=16,0,16,32&color=yellow|S1 poly intro marketing, page 13]]
+> > Marketing expérientiel/sensoriel
+> 
+> - Bug sur le site de paiement : pétage de plomb
+> - Progrès dans l'administration publique grâce au numérique
+> 
+
+> [!PDF|yellow] [[S1 poly intro marketing.pdf#page=13&selection=20,0,20,17&color=yellow|S1 poly intro marketing, page 13]]
+> > Marketing durable
+> 
+> ##### Définition (*RSE*)
+> *Responsabilité Sociétale des Entreprises* : cap vers le développement durable 
+
+> [!PDF|yellow] [[S1 poly intro marketing.pdf#page=14&selection=24,0,26,24&color=yellow|S1 poly intro marketing, page 14]]
+> > Les organisations concernées
+> 
+> Toutes les organisations sont concernées.
+
+ > [!PDF|yellow] [[S1 poly intro marketing.pdf#page=17&selection=2,0,6,32&color=yellow|S1 poly intro marketing, page 17]]
+> > IDENTIFICATION + RESOLUTION D’UNE “PROBLEMATIQUE”
+> 
+> On cherche à identifier des *relais de croissance*
+
+> [!PDF|yellow] [[S1 poly intro marketing.pdf#page=19&selection=76,0,76,4&color=yellow|S1 poly intro marketing, page 19]]
+> > SWOT
+> 
+> ##### Définition (*Démarche SWOT*)
+> *Strength, Weakness, Opportunity, Threat*
