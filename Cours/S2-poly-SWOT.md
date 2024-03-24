@@ -6,6 +6,7 @@
 		- [[#I.1. La définition d'un marché|I.1. La définition d'un marché]]
 	- [[#II. Les consommateurs|II. Les consommateurs]]
 	- [[#III. Les concurrents|III. Les concurrents]]
+	- [[#IV. Les distributeurs|IV. Les distributeurs]]
 
 ## I. Le marché
 ### I.1. La définition d'un marché
@@ -31,4 +32,6 @@
 ## II. Les consommateurs
 
 ## III. Les concurrents
+
+## IV. Les distributeurs
 
